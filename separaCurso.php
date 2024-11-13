@@ -27,3 +27,4 @@ foreach ($arquivocurso as $curso => $alunos) {
     // Gera o nome do arquivo baseado na turma e escreve o conteúdo
     file_put_contents("alunos_$curso.csv", $conteudo);
 }
+"git"

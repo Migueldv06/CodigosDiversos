@@ -1,6 +1,6 @@
 <?php
-$contaCRM = "Miguel Domiciano Vieira";// Nome da Conta do Contato
-$usuario = "NBA";// Nome do Usuario atribuido ao Contato
+$contaCRM = "NBA";// Nome da Conta do Contato
+$usuario = "Miguel Domiciano Vieira";// Nome do Usuario atribuido ao Contato
 
 
 //Informações necessarias para criação de um contato
